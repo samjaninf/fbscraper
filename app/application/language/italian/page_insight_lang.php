@@ -1,0 +1,31 @@
+<?php
+
+$lang = array (
+  'page storytellers by story type' => 'cantastorie pagina per tipo di storia',
+  'page storytellers by user country' => 'cantastorie pagina per paese utente',
+  'page impression paid vs non-paid' => 'Pagina impressione pagato vs non pagati',
+  'page impression organic' => 'Pagina impressione organica',
+  'page impression by user country' => 'Pagina impressione per paese utente',
+  'page impression by user city' => 'Pagina impressione per città utenti',
+  'page storyteller by user city' => 'Pagina narratore per città utenti',
+  'page engaged users' => 'Pagina impegnati utenti',
+  'page consumptions by type' => 'consumi per tipo di pagina',
+  'page positive feedback by type' => 'Pagina feedback positivo per tipo',
+  'page negative feedback by type' => 'Pagina feedback negativo per tipo',
+  'page fans online per day' => 'I fan page on-line al giorno',
+  'page fans by like source' => 'I fan page di source come',
+  'page likes vs unlikes' => 'Pagina piace vs unlikes',
+  'page posts impressions' => 'Pagina messaggi impressioni',
+  'page posts impressions paid vs organic' => 'Messaggi Pagina impressioni a pagamento vs organico',
+  'page tab views' => 'vista scheda Pagina',
+  'page views by external referral' => 'Le pagine viste di riferimento esterno',
+  'facebook page insight' => 'Pagina Facebook intuizione',
+  'add page' => 'Aggiungi pagina',
+  'page list' => 'lista pagina',
+  'facebook settings' => 'impostazioni di Facebook',
+  'video manual' => 'manuale Video',
+  'user manual' => 'Manuale utente',
+  'id' => 'Id',
+  'reviews' => 'Recensioni',
+  
+);

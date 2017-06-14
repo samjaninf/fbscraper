@@ -1,0 +1,27 @@
+<?php
+$lang['page storytellers by story type'] =  'page storytellers by story type';
+$lang['page storytellers by user country'] =  'page storytellers by user country';
+$lang['page impression paid vs non-paid'] =  'page impression paid vs non-paid';
+$lang['page impression organic'] =  'page impression organic';
+$lang['page impression by user country'] =  'page impression by user country';
+$lang['page impression by user city'] =  'page impression by user city';
+$lang['page storyteller by user city'] =  'page storyteller by user city';
+$lang['page engaged users'] =  'page engaged users';
+$lang['page consumptions by type'] =  'page consumptions by type';
+$lang['page positive feedback by type'] =  'page positive feedback by type';
+$lang['page negative feedback by type'] =  'page negative feedback by type';
+$lang['page fans online per day'] =  'page fans online per day';
+$lang['page fans by like source'] =  'page fans by like source';
+$lang['page likes vs unlikes'] =  'page likes vs unlikes';
+$lang['page posts impressions'] =  'page posts impressions';
+$lang['page posts impressions paid vs organic'] =  'page posts impressions paid vs organic';
+$lang['page tab views'] =  'page tab views';
+$lang['page views by external referral'] =  'page views by external referral';
+$lang['facebook page insight'] =  'ফেসবুক পেজ ইন্সাইট';
+$lang['add page'] =  'পেজ যুক্ত করুন';
+$lang['page list'] =  'পেজের তালিকা';
+$lang['facebook settings'] =  'ফেসবুক সেটিংস';
+$lang['video manual'] =  'ভিডিও ম্যানুয়াল';
+$lang['user manual'] =  'ইউজার ম্যানুয়াল';
+$lang['id'] =  'আইডি';
+$lang['reviews'] =  'রিভিউ';

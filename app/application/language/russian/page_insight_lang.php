@@ -1,0 +1,31 @@
+<?php
+
+$lang = array (
+  'page storytellers by story type' => 'Страница рассказчики по типу сюжета',
+  'page storytellers by user country' => 'Страница рассказчики по странам пользователя',
+  'page impression paid vs non-paid' => 'Page впечатление заплатил против неоплачиваемый',
+  'page impression organic' => 'Страница впечатление органического',
+  'page impression by user country' => 'впечатление Страница пользователя по стране',
+  'page impression by user city' => 'впечатление Страница пользователем города',
+  'page storyteller by user city' => 'сказочник Страница пользователем города',
+  'page engaged users' => 'Страница увлеченных пользователей',
+  'page consumptions by type' => 'Страница по типу потребление',
+  'page positive feedback by type' => 'Страница положительной обратной связи по типу',
+  'page negative feedback by type' => 'Страница отрицательной обратной связи по типу',
+  'page fans online per day' => 'вентиляторы Страница онлайн в день',
+  'page fans by like source' => 'вентиляторы Постраничный как источник',
+  'page likes vs unlikes' => 'Страница любит против unlikes',
+  'page posts impressions' => 'Страница сообщений впечатления',
+  'page posts impressions paid vs organic' => 'Сообщения показов страниц оплаченные против органического',
+  'page tab views' => 'просмотров страницы вкладка',
+  'page views by external referral' => 'Количество просмотров страницы по внешнему направлению',
+  'facebook page insight' => 'страница прозрение facebook',
+  'add page' => 'Добавить страницу',
+  'page list' => 'список страниц',
+  'facebook settings' => 'настройки Facebook',
+  'video manual' => 'Видео по эксплуатации',
+  'user manual' => 'Руководство пользователя',
+  'id' => 'Я бы',
+  'reviews' => 'Отзывы',
+  
+);

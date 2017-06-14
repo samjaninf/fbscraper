@@ -1,0 +1,27 @@
+<?php 
+$lang = array (
+  'Total Search Vs Result Found (Today\'s Report)' => 'ফল বনাম মোট অনুসন্ধান পাওয়া (আজকের রিপোর্ট)',
+  'Total Collected Emails (Today\'s Report)' => 'মোট সংগৃহীত ইমেইল (আজকের রিপোর্ট)',
+  'widget' => 'উইজেট',
+  'domain name' => 'ডোমেন নাম',
+  'frame border' => 'ফ্রেম সীমানা',
+  'frame width' => 'ফ্রেম প্রস্থ',
+  'frame height' => 'ফ্রেম উচ্চতা',
+  'frame background HEX' => 'ফ্রেম পটভূমি HEX',
+  'text color HEX' => 'টেক্সট রঙ সম্মোহন',
+  'input border color HEX' => 'ইনপুট সীমান্ত রঙের হেক্স',
+  'icon color HEX' => 'আইকন রঙের হেক্স',
+  'button style' => 'বোতাম শৈলী',
+  'get widget embed code' => 'উইজেট এম্বেড কোড পেতে',
+  'click to copy' => 'কপি করার জন্য ক্লিক করুন',
+  'widget preview' => 'উইজেট প্রিভিউ',
+  'how the widget will look in to your website?' => 'কিভাবে উইজেট আপনার ওয়েবসাইটে দেখবে?',
+  'have a look' => 'দেখে নিন',
+  "copy the html code, put it in the websites's html and let website users to use awesome facebook page search" => "HTML কোড কপি করুন, ওয়েবসাইটের HTML এ এটি লাগান এবং ওয়েবসাইট ব্যবহারকারীদের সন্ত্রস্ত ফেসবুক পাতা অনুসন্ধানের সুযোগ দিন",
+  "emails from page search"=>"পাতা অনুসন্ধান ইমেল - ব্যাক",
+  "emails from guest search"=>"পাতা অনুসন্ধান ইমেল - ফ্রন্টএন্ড",
+  "emails from guest user"=>"অতিথি ব্যবহারকারীর কাছ থেকে ইমেল",
+  "page list searched by guests"=>"অতিথি ব্যবহারকারীর পেজ সার্চ লিস্ট",
+  "total search" => "মোট অনুসন্ধান",
+  "total result found" => "মোট পাওয়া ফল"
+);

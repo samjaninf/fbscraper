@@ -1,0 +1,31 @@
+<?php
+
+$lang = array (
+  'page storytellers by story type' => 'Σελίδα παραμυθάδες από το είδος ιστορία',
+  'page storytellers by user country' => 'Σελίδα παραμυθάδες ανά χώρα χρήστη',
+  'page impression paid vs non-paid' => 'Page εντύπωση που καταβάλλεται έναντι μη αμειβόμενες',
+  'page impression organic' => 'Σελίδα εντύπωση οργανικά',
+  'page impression by user country' => 'Σελίδα εντύπωση από τη χώρα χρήστη',
+  'page impression by user city' => 'Σελίδα εντύπωση από την πόλη του χρήστη',
+  'page storyteller by user city' => 'Σελίδα αφηγητής από την πόλη του χρήστη',
+  'page engaged users' => 'Σελίδα ασχολούνται χρήστες',
+  'page consumptions by type' => 'Σελίδα καταναλώσεις ανά είδος',
+  'page positive feedback by type' => 'Σελίδα θετικά σχόλια από τον τύπο',
+  'page negative feedback by type' => 'Σελίδα αρνητική ανάδραση από τον τύπο',
+  'page fans online per day' => 'θαυμαστές της σελίδας στο διαδίκτυο ανά ημέρα',
+  'page fans by like source' => 'Σελίδα οπαδούς από παρόμοια πηγή',
+  'page likes vs unlikes' => 'Page αρέσει vs unlikes',
+  'page posts impressions' => 'δημοσιεύσεις σελίδα εντυπώσεις',
+  'page posts impressions paid vs organic' => 'δημοσιεύσεις σελίδα εντυπώσεις που καταβάλλονται vs οργανικά',
+  'page tab views' => 'θέα καρτέλα',
+  'page views by external referral' => 'προβολές σελίδων από εξωτερικούς παραπομπής',
+  'facebook page insight' => 'Facebook σελίδα διορατικότητα',
+  'add page' => 'Προσθήκη σελίδας',
+  'page list' => 'Λίστα σελίδα',
+  'facebook settings' => 'ρυθμίσεις Facebook',
+  'video manual' => 'εγχειρίδιο βίντεο',
+  'user manual' => 'Εγχειρίδιο χρήστη',
+  'id' => 'Ταυτότητα',
+  'reviews' => 'Κριτικές',
+  
+);
